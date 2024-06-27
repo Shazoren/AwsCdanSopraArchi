@@ -8,6 +8,7 @@
 ## 2. Technologies Utilisées
 - **Langage de Programmation:** Java
 - **Framework Backend:** Spring Boot
+- **Version JDK:** 17
 - **Système de Gestion de Base de Données:** MySQL
 - **Outils de Développement:** Maven, Postman
 
